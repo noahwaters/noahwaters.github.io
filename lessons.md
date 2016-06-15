@@ -18,3 +18,10 @@ Used violins from Kijiji, well-meaning relatives, or internet dealers are VERY O
 Note: You almost definitely do NOT have a Stradivarius in your closet.
 
  In Ottawa I recommend [The Sound Post](https://www.thesoundpost.com/en/about/ottawa "Sound Post") or [Long and McQuade](https://www.long-mcquade.com/location/Ontario/Ottawa/ "Long and McQuade") for rentals and purchases of bowed string instruments.
+
+
+
+
+
+
+ 
