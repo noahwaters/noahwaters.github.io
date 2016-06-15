@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Noah
-permalink: /about/
+title: Lessons
+permalink: /lessons/
 ---
 
 ### Lessons with Noah
