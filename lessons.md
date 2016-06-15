@@ -7,7 +7,7 @@ permalink: /lessons/
 ### Lessons with Noah
 I teach violin at [Alcorn Music Studios](http://www.alcornmusicstudios.com) in the Little Italy neighborhood of Ottawa, and at [Domenic's Academy of Music](http://domenicsmusic.ca) in Orleans.
 If either of these locations would work for you or your child, please contact them to arrange a lesson time.
-### How I teach
+###  How I teach
 I use the traditional methods of violin teaching that I was raised on, using simple etude, scale and repertoire books. I can also use Suzuki and RCM curricula.
 
 ### Instruments
