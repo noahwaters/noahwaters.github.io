@@ -2231,6 +2231,18 @@
 					text-decoration: none;
 				}
 
+/*
+                #header nav ul li a {
+					border: solid 1px transparent;
+					color: inherit;
+					display: inline-block;
+					line-height: 1em;
+					padding: 0.6em 0.75em;
+					text-decoration: none;
+				}
+*/
+
+
 				#header nav ul li input[type="button"],
 				#header nav ul li input[type="submit"],
 				#header nav ul li input[type="reset"],
@@ -2277,6 +2289,7 @@
 			animation: reveal-header 0.5s;
 		}
 
+/*
 		#header.alt {
 			-moz-animation: none;
 			-webkit-animation: none;
@@ -2285,6 +2298,19 @@
 			background: transparent;
 			box-shadow: none;
 			color: #fff;
+			padding: 2em 2.5em;
+			position: absolute;
+		}
+*/
+
+        #header.alt {
+			-moz-animation: none;
+			-webkit-animation: none;
+			-ms-animation: none;
+			animation: none;
+			background: transparent;
+			box-shadow: none;
+			color: ##979696;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
